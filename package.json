@@ -1,0 +1,11 @@
+{
+  "name": "real-time-news-website",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "repository": "https://github.com/real-time-news/website.git",
+  "author": "孟世博 <897205285@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
