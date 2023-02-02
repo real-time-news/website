@@ -16,7 +16,7 @@
 ## Supported media
 
 - [ ] caixin <https://www.caixin.com/search/scroll/index.jsp>
-- [ ] zaobao <https://www.zaobao.com/realtime>
+- [x] zaobao <https://www.zaobao.com/realtime>
 - [ ] sina-news <https://github.com/exposir/sina-news>
 - [x] readhub <https://api.readhub.cn/mina_v2/topic/list?&size=10&type=day>
 
